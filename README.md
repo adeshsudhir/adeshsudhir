@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Adesh S 👋
 
-<!--
-**adeshsudhir/adeshsudhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an embedded systems engineer passionate about low-level programming, real-time systems, and firmware development using STM32 microcontrollers.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- Embedded C | Bare-metal Development  
+- STM32 (STM32F405 / F407)  
+- FreeRTOS and Real-Time Systems  
+- Communication Protocols: UART, SPI, I2C, CAN  
+- Bootloaders, Firmware Update Mechanisms  
+- Python (for scripting and automation)  
+- MATLAB / Simulink (for control systems modeling)
+
+---
+
+## 📚 Currently Learning
+
+- Computer Architecture and Operating Systems  
+- Assembly Language and Cryptography  
+- Test Automation for Firmware  
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [www.linkedin.com/in/adesh-sudhir](https://www.linkedin.com/in/adesh-sudhir)
+
+---
+
