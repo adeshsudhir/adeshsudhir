@@ -1,6 +1,6 @@
 # Hi, I'm Adesh 👋
 
-I'm an embedded systems engineer passionate about low-level programming, real-time systems, and firmware development using STM32 microcontrollers.
+I'm an embedded software engineer passionate about low-level programming, real-time systems, and firmware development using STM32 microcontrollers.
 
 ---
 
